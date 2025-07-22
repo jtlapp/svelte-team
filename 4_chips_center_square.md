@@ -1,3 +1,5 @@
+# Sequence Diagram: Center Square Selected with 4 Chips
+
 ```mermaid
 sequenceDiagram
     actor Player
